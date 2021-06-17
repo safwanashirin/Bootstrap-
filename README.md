@@ -1,3 +1,3 @@
 # Bootstrap-
 
-https://github.com/safwanashirin/Bootstrap-.git
+https://safwanashirin.github.io/Bootstrap-/
